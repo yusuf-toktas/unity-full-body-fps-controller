@@ -42,7 +42,7 @@ This project implements a Full Body First Person Controller system in Unity. The
 ## Installation
 1. Clone this repository:
 
-**``git clone https://github.com/your-username/full-body-fps-controller.git``**
+**``git clone https://github.com/yusuf-toktas/full-body-fps-controller.git``**
 
 2. Open the project in Unity.
 
